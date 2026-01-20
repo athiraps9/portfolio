@@ -9,7 +9,7 @@ const Skills = () => {
     },
     {
       title: "UI/UX & Tools",
-      skills: ["Figma", "Cloudinary", "Vercel", "Android Studio"]
+      skills: ["Figma","Photoshop","", "Vercel", "Vite"]
     },
     {
       title: "Backend & APIs",
@@ -17,7 +17,7 @@ const Skills = () => {
     },
     {
       title: "Databases",
-      skills: ["MySQL", "SQL Server", "MongoDB"]
+      skills: ["MySQL", "MongoDB"]
     },
     {
       title: "Version Control",
@@ -27,10 +27,7 @@ const Skills = () => {
       title: "Development Tools",
       skills: ["VS Code", "MS Office"]
     },
-    {
-      title: "AI Platforms",
-      skills: ["ChatGPT", "DeepSeek", "Gemini", "GitHub Copilot","Lovable AI"]
-    },
+   
     {
       title: "Soft Skills",
       skills: ["Team Collaboration", "Mentoring", "Leadership", "Technical Support", "Business Analysis"]

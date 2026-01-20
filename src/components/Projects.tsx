@@ -21,6 +21,22 @@ const Projects = () => {
       githubUrl: "#",
       category: "Government Collaboration"
     },
+     {
+      title: "MLA Dashboard for  Perinthalmanna Assembly Constituency",
+      description: "A transparency-driven web platform that presents verified, real-time insights into an MLA’s activities, attendance, and development initiatives,enabling citizens to access transparent and reliable public information",
+      technologies: ["Tailwind CSS","React.js","Node.js","Express.js","Mongodb"],
+      liveUrl: "",
+      githubUrl: "https://github.com/athiraps9/MLA_dashboard",
+      category: ["Freelance","Fullstack"]
+    },
+    {
+      title: "Mini Inventory Dashboard ",
+      description: "A mini inventory management system for managing products, tracking stock status, and viewing inventory through a responsive, user-friendly dashboard",
+      technologies: ["Vanila CSS","Next.js","Node.js","Express.js","Mongodb"],
+      liveUrl: "",
+      githubUrl: "https://github.com/athiraps9/mini_inventory_system",
+      category: "Fullstack" 
+    },
     
    
   ];
