@@ -9,7 +9,7 @@ const Skills = () => {
     },
     {
       title: "UI/UX & Tools",
-      skills: ["Figma","Photoshop","", "Vercel", "Vite"]
+      skills: ["Figma","Photoshop","Vercel", "Vite"]
     },
     {
       title: "Backend & APIs",
