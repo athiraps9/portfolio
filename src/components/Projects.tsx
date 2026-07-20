@@ -9,7 +9,7 @@ const Projects = () => {
       title: "QuickChat - Real-time Chat Application",
       description: "A real-time chat application with user authentication, instant messaging, and responsive design. Built with modern web technologies for seamless communication.",
       technologies: ["React.js", "Node.js", "MongoDB", "WebSocket", "Tailwind CSS"],
-      liveUrl: "https://quickchat.greatstack.in/login",
+      liveUrl: "https://github.com/athiraps9/ChatApp_socket",
       githubUrl: "https://github.com/athiraps9/ChatApp_socket",
       category: "Full Stack"
     },
